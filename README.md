@@ -1,8 +1,7 @@
-# Realty Price Prediction Russia
-
 Анализ рынка недвижимости РФ за 2018–2021 годы и построение модели предсказания цены за м².
 
 ## Данные
+https://drive.google.com/file/d/1c56OodTuY8DwyeILIdtAr_aUVmA_gZAD/view?usp=sharing
 
 - **realty_18_21.csv** — ~5.5 млн объявлений о недвижимости (цена, площадь, комнаты, этаж, регион и др.)
 - **region.csv** — справочник регионов (код → название)
